@@ -1,0 +1,16 @@
+Text Utils Projects
+
+This project created a user put or enter any of string and click a remove punctuation like, "!@#$%^&*()_" this spacial character in string so remove punctution button remove this spacial character in string.
+also new line button click string has been removed new lines in string, also new space button click so remove a new spaces in string, and capitalize click button so all string in capitalized.
+
+Languages:
+	HTML
+	CSS
+	JavaScript
+	Bootstraps
+	python
+	Django
+
+requirements :  install python 3
+		install Django 3
+		in computer for run this code.
